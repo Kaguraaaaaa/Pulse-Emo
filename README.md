@@ -1,1 +1,2 @@
 # Pulse-Emo
+Code: MIT
